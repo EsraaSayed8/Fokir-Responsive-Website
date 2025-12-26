@@ -51,10 +51,11 @@ Improving problem-solving while fixing responsive issues
 
 ## Live Demo
 
-[View Live Demo] ( https://github.com/EsraaSayed8/Fokir-Responsive-Website.git)
+[View Live Demo] ( https://github.com/EsraaSayed8/Fokir-Responsive-Website/)
 
  ## Notes
 
 This project was built as a learning exercise to practice front-end basics.
 
 More improvements and refactoring will be done in future projects using modern layout techniques like Flexbox.
+
