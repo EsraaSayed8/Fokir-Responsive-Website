@@ -1,0 +1,181 @@
+/* 640  -    sm */
+@media screen and (min-width: 640px) {
+  .sm-50 {
+    width: 50%;
+  }
+  .sm-33 {
+    width: 33.333%;
+  }
+  .sm-25 {
+    width: 25%;
+  }
+  .sm-20 {
+    width: 20%;
+  }
+  .sm-16 {
+    width: 16%;
+  }
+}
+
+/* 768  -    md */
+@media screen and (min-width: 768px) {
+  .md-50 {
+    width: 50%;
+  }
+  .md-33 {
+    width: 33.333%;
+  }
+  .md-25 {
+    width: 25%;
+  }
+  .md-20 {
+    width: 20%;
+  }
+  .md-16 {
+    width: 16%;
+  }
+
+  #navbar .logo {
+    float: left;
+  }
+
+  #navbar .nav-links {
+    float: right;
+  }
+
+  #navbar .nav-links li {
+    display: inline-block;
+    padding: 0 10px;
+  }
+
+  #header .header-content span {
+    font-size: 24px;
+  }
+
+  #header .header-content h1 {
+    font-size: 70px;
+  }
+
+  #header .header-content p {
+    font-size: 26px;
+  }
+
+  #about .about-img {
+    width: 35%;
+    float: left;
+  }
+
+
+  #about .about-contant {
+    width: 55%;
+    float: right;
+  }
+  #about .about-contant ul li {
+    float: left;
+       width: 50%; 
+
+  }
+     #services .item {
+  width: 50%;
+  float: left;
+} 
+ #services .items {
+  margin: 40px 0;
+} 
+#portfolio .item {
+  width: 50%;
+  float: left;
+}
+#counter .item{
+    width: 25%; 
+   float: left; 
+}
+#feedback .card{
+    width: 70%;
+}
+.blog-card{
+    width: 33.33%;
+}
+.f-left,
+.f-right {
+    width: 49%; 
+
+}
+.f-left {
+  float: left; 
+}
+.f-right {
+   float: right; 
+}
+}
+
+/* 1024  -    lg */
+@media screen and (min-width: 1024px) {
+  .lg-50 {
+    width: 50%;
+  }
+  .lg-33 {
+    width: 33.333%;
+  }
+  .lg-25 {
+    width: 25%;
+  }
+  .lg-20 {
+    width: 20%;
+  }
+  .lg-16 {
+    width: 16%;
+  }
+     #services .item {
+  width: 25%;
+  float: left;
+} 
+#portfolio .item{
+     width: 33.333%; 
+  float: left; 
+}
+ #about .about-img .img-border {
+  border: 10px solid #555555;
+  border-radius: 8px;
+} 
+
+}
+
+/* 1280  -    xl */
+@media screen and (min-width: 1280px) {
+  .xl-50 {
+    width: 50%;
+  }
+  .xl-33 {
+    width: 33.333%;
+  }
+  .xl-25 {
+    width: 25%;
+  }
+  .xl-20 {
+    width: 20%;
+  }
+  .xl-16 {
+    width: 16%;
+  }
+}
+
+/* 1539  -    xxl */
+
+@media screen and (min-width: 1536px) {
+  .xxl-50 {
+    width: 50%;
+  }
+  .xxl-33 {
+    width: 33.333%;
+  }
+  .xxl-25 {
+    width: 25%;
+  }
+  .xxl-20 {
+    width: 20%;
+  }
+  .xxl-16 {
+    width: 16%;
+  }
+}
